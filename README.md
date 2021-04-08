@@ -4,6 +4,6 @@ Projeto tem como objetivo criar um bot para pesquisa de preços nos sites mercad
 
 ## Libs
 - pip install selenium
-- pip install openxyl
+- pip install openpyxl
 - pip install requests
 - pip install beautifulsoup
